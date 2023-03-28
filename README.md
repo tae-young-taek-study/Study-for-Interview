@@ -1,4 +1,4 @@
-# spring-study
+# Study-for-Interview
 
 ## 팀원 소개
 참여자|참여자
